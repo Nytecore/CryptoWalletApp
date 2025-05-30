@@ -90,7 +90,7 @@ Kotlin ile geliştirilmiş, kapsamlı ve modern bir Android uygulamasıdır. Kul
 - 🖼️ **Fotoğraf Depolama** — Kullanıcı profil fotoğrafları Firebase Storage ile bulutta saklanır.
 - 💱 **Canlı Kripto Veri Akışı** — CoinMarketCap API’sinden **Retrofit**, **Coroutines** ve **Gson** kullanılarak alınan gerçek zamanlı kripto fiyat bilgileri.
 - 🧭 **Navigation Component + SafeArgs** — Jetpack Navigation ve SafeArgs kullanılarak sorunsuz ve tür güvenli fragment geçişleri.
-- 🎨 **Modern Arayüz ** — Bottom Navigation, Toolbar, Progress Bar gibi Material bileşenleriyle tasarlanmış kullanıcı dostu arayüz.
+- 🎨 **Modern Arayüz** — Bottom Navigation, Toolbar, Progress Bar gibi Material bileşenleriyle tasarlanmış kullanıcı dostu arayüz.
 - 🖼️ **Resim Kırpma ve Gösterimi** — **uCrop** ile yuvarlak biçimde kırpılmış profil fotoğrafları, **Glide** ile gösterilir.
 - 🔊 **Ses Efektleri** — MediaPlayer ile kullanıcı etkileşimlerinde sesli geri bildirimler.
 - 📱 **Responsive Tasarım** — Farklı ekran boyutları ve yönelimler için optimize edilmiştir.
