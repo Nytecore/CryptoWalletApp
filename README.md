@@ -150,7 +150,7 @@ implementation("com.github.yalantis:ucrop:2.2.10")
 ```
 
 
-📸 Screenshots
+## 📸 Screenshots
 
 
 <img width="836" alt="1" src="https://github.com/user-attachments/assets/145a1e3c-057e-4af2-b03c-38ad63a7c1ab" />
@@ -166,17 +166,17 @@ implementation("com.github.yalantis:ucrop:2.2.10")
 
 
 
-📬 Contact
+## 📬 Contact
 
 If you’d like to connect, feel free to reach out:
 
-Bora Yıldırım
+**Bora Yıldırım**
 
-[🔗 LinkedIn](https://www.linkedin.com/in/borayldrmm/) [📨 Mail](mailto:borayldrm@hotmail.com)
+[🔗 LinkedIn](https://www.linkedin.com/in/borayldrmm/)    —    [📨 Mail](mailto:borayldrm@hotmail.com)
 
 
 
-🏁 Final Note
+## 🏁 Final Note
 
 This project was built as part of my journey through Android development using Kotlin. It showcases both my technical capabilities and attention to design and user experience. I’m proud to share this as a polished and practical demonstration of what I’ve learned so far.
 
