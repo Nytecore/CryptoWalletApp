@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/recycleViewSymbolText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="30dp"
+        android:shadowColor="@color/black"
+        android:shadowDx="3"
+
+        android:shadowDy="3"
+        android:shadowRadius="3"
+        android:text="Symbol"
+        android:textColor="@color/white"
+        android:textSize="38sp"
+        android:textStyle="bold"></TextView>
+
+    <TextView
+        android:id="@+id/recycleViewPriceText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="12dp"
+        android:shadowColor="@color/black"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="3"
+        android:text="Price"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold"></TextView>
+</LinearLayout>
